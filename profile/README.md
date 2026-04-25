@@ -8,22 +8,22 @@ This repository contains 23+ interconnected projects organized across three arms
 
 ## Core Emergency Response
 
-### [NayborSOS](../NayborSOS/)
+### [NayborSOS](../../../../NayborSOS/)
 Community emergency response platform connecting nearby neighbors for rapid response (1-3 minutes) during cardiac arrest, overdose, mental health crises, and wellness checks.
 - **Stack**: Flutter, Supabase, 109-language localization
 - **Features**: Neighbor alerting, CPR/AED/naloxone coordination, privacy-preserving location
 
-### [Safe Neighborhood Team](../safe-neighborhood-team/)
+### [Safe Neighborhood Team](../../../../safe-neighborhood-team/)
 Open-source web platform for community emergency response coordination (Neighbor 911™).
 - **Stack**: React 18, TypeScript, Vite, Google Cloud Functions, Firestore
 - **Features**: Rapid response network, multi-scenario support, privacy-first design
 
-### [Safeword](../safeword_flutter/)
+### [Safeword](../../../../safeword/)
 Mobile app for relationship consent management and safety — "Happiness, Health & Wellbeing First."
 - **Stack**: Flutter 3.x, Sherpa ONNX (ML), TensorFlow Lite, Firebase, SQLCipher encryption
 - **Features**: Voice-activated safeword detection, speaker identification, consent tools, mood tracking, emergency dispatch integration
 
-### [Safeword Landing Page](../safeword_landing_page/)
+### [Safeword Landing Page](../../../../safeword_landing_page/)
 Firebase-hosted landing page and contact forms for the Safeword platform.
 - **Stack**: React, Firebase Hosting + Cloud Functions, Resend API
 
@@ -31,34 +31,34 @@ Firebase-hosted landing page and contact forms for the Safeword platform.
 
 ## Advocacy & Education
 
-### [Unify SOS Heroes](../unify-sos-heroes/)
+### [Unify SOS Heroes](../../../../unify-sos-heroes/)
 Global advocacy for universal emergency numbers (112/123), Good Samaritan protections, and emergency training.
 - **Stack**: React, TypeScript, Vite, shadcn/ui
 
-### [Raising Rights](../raising-rights/)
+### [Raising Rights](../../../../raising-rights/)
 Youth suffrage advocacy — making the case for lowering voting age and improving democratic participation.
 - **Stack**: React, TypeScript, Vite, shadcn/ui
 
-### [Tongtied](../tongtied/)
+### [Tongtied](../../../../tongtied/)
 Campaign finance reform advocacy demonstrating how money in politics blocks legislative reform.
 - **Stack**: React, TypeScript, Recharts
 - **Features**: Interactive visualizations, case studies (NFL, tax prep, tobacco, oil/gas)
 
-### [Tear Down This Firewall](../tear-down-this-firewall/)
+### [Tear Down This Firewall](../../../../tear-down-this-firewall/)
 Documents how internet censorship blocks lifesaving innovations, research, and humanitarian work.
 - **Stack**: React, TypeScript, Supabase, TanStack Query
 - **Features**: Video litmus tests, impact stories, user submissions
 
-### [FeministYes](../FeministYes/)
+### [FeministYes](../../../../FeministYes/)
 Conscious consent education using Sexual Reliability Engineering (SRE) principles.
 - **Stack**: React, TypeScript, Supabase
 - **URL**: feministyes.org
 
-### [Enough Is Enuf](../enough-is-enuf/)
+### [Enough Is Enuf](../../../../enough-is-enuf/)
 Spelling reform advocacy for simplified, phonetic American English (e.g., "Naybor" vs "Neighbor").
 - **Stack**: React, TypeScript, Vite, shadcn/ui
 
-### [Ribbreakers United](../Ribbreakers-United/)
+### [Ribbreakers United](../../../../Ribbreakers-United/)
 CPR advocacy — normalizing rib fractures as a sign of proper, life-saving chest compressions.
 - **Stack**: React, TypeScript, Framer Motion
 - **Mission**: Overcome bystander hesitation, promote universal CPR training
@@ -67,12 +67,12 @@ CPR advocacy — normalizing rib fractures as a sign of proper, life-saving ches
 
 ## Language & Culture
 
-### [Blessed Dialect Basecamp](../blessed-dialect-basecamp/)
+### [Blessed Dialect Basecamp](../../../../blessed-dialect-basecamp/)
 Experimental language evolution project — "Borlaug Less Éd" (BLED⁵) — advancing English toward human flourishing.
 - **Stack**: React, TypeScript, Vitest
 - **Features**: Interactive dictionary, collaborative word submissions, community consensus system
 
-### [Civigion Faith Unite](../civigion-faith-unite/)
+### [Civigion Faith Unite](../../../../civigion-faith-unite/)
 Civic religion platform recognizing shared faith in democratic values.
 - **Stack**: React, TypeScript, Vite, shadcn/ui
 
@@ -80,7 +80,7 @@ Civic religion platform recognizing shared faith in democratic values.
 
 ## Relationships & Wellness
 
-### [Inner Friend Circle](../inner-friend-circle/)
+### [Inner Friend Circle](../../../../inner-friend-circle/)
 Relationship support app based on Dunbar's Number research — intentionally nurture your closest friendships.
 - **Stack**: React, TypeScript, Supabase, Framer Motion
 - **Features**: Relationship tiers (Core 5, Inner 15, Outer 150), drag-and-drop tending, 30+ day reminders
@@ -90,7 +90,7 @@ Relationship support app based on Dunbar's Number research — intentionally nur
 
 ## Transportation Safety
 
-### [Krashlesskar Certification](../krashlesskar-certification/)
+### [Krashlesskar Certification](../../../../krashlesskar-certification/)
 Autonomous vehicle safety certification standards.
 - **Stack**: React, TypeScript, Vite, shadcn/ui
 
@@ -98,7 +98,7 @@ Autonomous vehicle safety certification standards.
 
 ## Ecosystem Hub
 
-### [Lifesaver Trailblazer Hub](../lifesaver-trailblazer-hub/)
+### [Lifesaver Trailblazer Hub](../../../../lifesaver-trailblazer-hub/)
 Central showcase and navigation hub for the entire Lifesaver Labs ecosystem.
 - **Stack**: React, TypeScript, TanStack Query
 - **Role**: Entry point for understanding the full initiative
@@ -107,10 +107,10 @@ Central showcase and navigation hub for the entire Lifesaver Labs ecosystem.
 
 ## Documentation
 
-### [PolicyDiscovery](../PolicyDiscovery/)
+### [PolicyDiscovery](../../../../PolicyDiscovery/)
 Policy proposals and community voice documentation.
 
-### [Drafting Precedents](../draftingprecedents/)
+### [Drafting Precedents](../../../../draftingprecedents/)
 Legal and governance document templates.
 
 ---
@@ -119,9 +119,9 @@ Legal and governance document templates.
 
 | Project | Purpose | Status |
 |---------|---------|--------|
-| [safeword_flutter2](../safeword_flutter2/) | Experimental Safeword branch | Development |
-| [currencycalm](../currencycalm/) | Flutter mobile app | Early stage |
-| [steadyyes_wearos](../steadyyes_wearos/) | Wear OS smartwatch app | Early stage |
+| [safeword_flutter2](../../../../safeword_flutter2/) | Experimental Safeword branch | Development |
+| [currencycalm](../../../../currencycalm/) | Flutter mobile app | Early stage |
+| [steadyyes_wearos](../../../../steadyyes_wearos/) | Wear OS smartwatch app | Early stage |
 
 ---
 
